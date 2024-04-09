@@ -1,0 +1,1 @@
+The CORE layer keep all the components that are common across all layers like constants or configs or dependency injection (which we won’t cover)

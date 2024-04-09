@@ -1,0 +1,2 @@
+The PRESENTATION layer will keep all of the consumer-related code as to HOW the application will interact with the outside world. 
+The presentation layer can be WebForms, Command Line Interface, API Endpoints, etc. In this case, it would be the screens for a List of Todos and its accompanying view model.

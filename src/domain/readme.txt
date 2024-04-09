@@ -1,0 +1,4 @@
+we would use models, repository interfaces, and use cases.
+1. Model: A model typically represents a real-world object that is related to the problem. In this folder, we would typically keep classes to represent objects. e.g. Todo, User, Product, etc
+2. Repository: Container for all repository interfaces. The repository is a central place to keep all model-specific operations. In this case, the Todo repository interface would describe repository methods. The actual repository implementation will be kept in the Data layer.
+3. UseCases: Container to list all functionality of our application. e.g Get Todos, Delete Todo, Create Todo, Update Todo

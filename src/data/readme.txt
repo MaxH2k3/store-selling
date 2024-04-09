@@ -1,0 +1,3 @@
+The DATA layer will keep all the external dependency-related code as to:
+1. Repository: Repository implementations
+2. DataSource: All data source interfaces and entities. An entity represents a single instance of your domain object saved into the database as a record. It has some attributes that we represent as columns in our DB tables or API endpoints. We can’t control how data is modeled on the external data source, so these entities are required to be mapped from entities to domain models in the implementations
